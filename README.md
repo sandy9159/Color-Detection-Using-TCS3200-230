@@ -156,6 +156,7 @@ You can also try there new purple colour for PCB without any extra cost.
 ![image](https://user-images.githubusercontent.com/19898602/130722577-c30b7b43-ea89-4847-9c6b-058f9fabeda3.png)![image](https://user-images.githubusercontent.com/19898602/130722585-b5268db1-5f17-428f-ba60-b823140f2a70.png)
 
 
-![MVI_0001](https://user-images.githubusercontent.com/19898602/138692079-5da22769-b21e-4cd6-8863-329b59b5b586.gif)
+
+![How to make Color Sorting Machine Arduino Based](https://user-images.githubusercontent.com/19898602/139022951-776fa074-e8d1-4dd9-a8a2-3fdadcc0a71c.gif)
 
 
